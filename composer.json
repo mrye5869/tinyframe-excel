@@ -1,0 +1,25 @@
+{
+    "name": "tinyframe/excel",
+    "description": "the new tinyframe extend",
+    "keywords": [
+        "tinyframe",
+		"excel导出",
+        "excel导入",
+        "excel数据处理",
+        "phpexcel"
+    ],
+    "authors": [
+        {
+            "name": "mrye",
+            "email": "55585190@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "og\\": "src"
+        }
+    }
+}
