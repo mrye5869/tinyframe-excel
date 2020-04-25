@@ -1,6 +1,7 @@
 {
     "name": "tinyframe/excel",
     "description": "the new tinyframe extend",
+    "license": "Apache-2.0",
     "keywords": [
         "tinyframe",
 		"excel导出",
