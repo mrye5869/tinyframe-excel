@@ -1,5 +1,4 @@
 .idea
 .git
-src
 /composer.lock
 composer.lock
