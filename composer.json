@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "og\\": "src"
+            "og\\excel\\": "src"
         }
     }
 }
